@@ -12,6 +12,7 @@ Bookmarks com links
 - Conversor de fontes [onlinefontconverter](https://onlinefontconverter.com/)
 
 ### Sites
+- Aurélio das regex [Regex101](https://regex101.com/)
 - Guia visual de propriedades css [cssreference.io](http://cssreference.io)
 
 ### Testes
