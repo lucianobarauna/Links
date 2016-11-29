@@ -11,5 +11,8 @@ Bookmarks com links
 - Prewien de fontface com gerador do googlefonts [Typenugget](http://beta.typenugget.com/)
 - Conversor de fontes [onlinefontconverter](https://onlinefontconverter.com/)
 
+### Sites
+- Guia visual de propriedades css [cssreference.io](http://cssreference.io)
+
 ### Testes
 - Json online [JSON Test](http://www.jsontest.com/)
