@@ -10,7 +10,7 @@ Bookmarks com links
 - Simulador de breakpoints responsivos [Responsivebreakpoints](http://www.responsivebreakpoints.com/)
 - Prewien de fontface com gerador do googlefonts [Typenugget](http://beta.typenugget.com/)
 - Conversor de fontes [onlinefontconverter](https://onlinefontconverter.com/)
-- Gerador de Favicon [Favicon Generator](http://www.favicon-generator.org/.com/)
+- Gerador de Favicon [Real Favicon Generator](http://realfavicongenerator.net/)
 
 ### Sites
 - Aurélio das regex [Regex101](https://regex101.com/)
