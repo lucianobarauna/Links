@@ -11,6 +11,7 @@ Bookmarks com links
 - Prewien de fontface com gerador do googlefonts [Typenugget](http://beta.typenugget.com/)
 - Conversor de fontes [onlinefontconverter](https://onlinefontconverter.com/)
 - Gerador de Favicon [Real Favicon Generator](http://realfavicongenerator.net/)
+- Gerador de texturas [Heropatterns](http://www.heropatterns.com/)
 
 ### Sites
 - Aurélio das regex [Regex101](https://regex101.com/)
