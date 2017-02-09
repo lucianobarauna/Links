@@ -16,6 +16,7 @@ Bookmarks com links
 ### Sites
 - Aurélio das regex [Regex101](https://regex101.com/)
 - Guia visual de propriedades css [cssreference.io](http://cssreference.io)
+- Site com diversas referencias de códigos frontend [FreeFrontend](http://freefrontend.com/)
 
 ### Testes
 - Json online [JSON Test](http://www.jsontest.com/)
