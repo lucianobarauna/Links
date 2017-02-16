@@ -18,8 +18,7 @@ Bookmarks com links
 - Guia visual de propriedades css [cssreference.io](http://cssreference.io)
 - Site com diversas referencias de códigos frontend [FreeFrontend](http://freefrontend.com/)
 - Lista de gradientes online 
-  [Webgradients](https://webgradients.com/)
-  [uigradients](http://uigradients.com/)
+  [Webgradients](https://webgradients.com/), [uigradients](http://uigradients.com/)
 
 ### Testes
 - Json online [JSON Test](http://www.jsontest.com/)
