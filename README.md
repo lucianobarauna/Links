@@ -12,12 +12,14 @@ Bookmarks com links
 - Conversor de fontes [onlinefontconverter](https://onlinefontconverter.com/)
 - Gerador de Favicon [Real Favicon Generator](http://realfavicongenerator.net/)
 - Gerador de texturas [Heropatterns](http://www.heropatterns.com/)
-- Lista com diversos gradientes [Webgradients](https://webgradients.com/)
 
 ### Sites
 - Aurélio das regex [Regex101](https://regex101.com/)
 - Guia visual de propriedades css [cssreference.io](http://cssreference.io)
 - Site com diversas referencias de códigos frontend [FreeFrontend](http://freefrontend.com/)
+- Lista de gradientes online 
+  [Webgradients](https://webgradients.com/)
+  [uigradients](http://uigradients.com/)
 
 ### Testes
 - Json online [JSON Test](http://www.jsontest.com/)
