@@ -12,6 +12,7 @@ Bookmarks com links
 - Conversor de fontes [onlinefontconverter](https://onlinefontconverter.com/)
 - Gerador de Favicon [Real Favicon Generator](http://realfavicongenerator.net/)
 - Gerador de texturas [Heropatterns](http://www.heropatterns.com/)
+- Gerador de Data Teste [Mockroo](https://www.mockaroo.com/)
 
 ### Sites
 - Aurélio das regex [Regex101](https://regex101.com/)
