@@ -21,6 +21,7 @@ Bookmarks com links
 - Site com diversas referencias de códigos frontend [FreeFrontend](http://freefrontend.com/)
 - Lista de gradientes online 
   [Webgradients](https://webgradients.com/), [uigradients](http://uigradients.com/)
+- Inpiração para combinar tipografias [Typo.io](https://typ.io/)
   
 ### Mockups
 - [Mockupworld](https://www.mockupworld.co/)
