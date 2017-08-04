@@ -14,6 +14,7 @@ Bookmarks com links
 - Gerador de texturas [Heropatterns](http://www.heropatterns.com/)
 - Gerador de Data Teste [Mockroo](https://www.mockaroo.com/)
 - Gerador de Grid [Gridcalculator](http://gridcalculator.dk)
+- Otimizador de SVG online [SVGO](https://jakearchibald.github.io/svgomg/)
 - Compiler Online pug in html [Pug in Html compiler](http://html2pug.herokuapp.com/)
 
 ### Sites
