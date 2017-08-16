@@ -31,3 +31,6 @@ Bookmarks com links
 
 ### Testes
 - Json online [JSON Test](http://www.jsontest.com/)
+
+### Apresentações
+- [svg-can-do-that](http://slides.com/sdrasner/svg-can-do-that#/) by Sarah Drasner
