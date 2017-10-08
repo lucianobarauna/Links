@@ -15,7 +15,7 @@ Bookmarks com links
 - Gerador de Data Teste [Mockroo](https://www.mockaroo.com/)
 - Gerador de Grid [Gridcalculator](http://gridcalculator.dk)
 - Otimizador de SVG online [SVGO](https://jakearchibald.github.io/svgomg/)
-- Compiler Online pug in html [Pug in Html compiler](http://html2pug.herokuapp.com/)
+- Compiler Online pug in html [Pug in Html compiler](https://pughtml.com/)
 
 ### Sites
 - Aurélio das regex [Regex101](https://regex101.com/)
