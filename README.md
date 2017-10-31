@@ -9,7 +9,7 @@ Bookmarks com links
 - Gerador de sprites [Spritegen](http://spritegen.website-performance.org/)
 - Simulador de breakpoints responsivos [Responsivebreakpoints](http://www.responsivebreakpoints.com/)
 - Prewien de fontface com gerador do googlefonts [Typenugget](http://beta.typenugget.com/)
-- Conversor de fontes [onlinefontconverter](https://onlinefontconverter.com/)
+- Conversor de fontes [transfonter](https://transfonter.org/)
 - Gerador de Favicon [Real Favicon Generator](http://realfavicongenerator.net/)
 - Gerador de texturas [Heropatterns](http://www.heropatterns.com/)
 - Gerador de Data Teste [Mockroo](https://www.mockaroo.com/)
