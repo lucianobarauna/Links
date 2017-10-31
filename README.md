@@ -24,6 +24,17 @@ Bookmarks com links
 - Lista de gradientes online 
   [Webgradients](https://webgradients.com/), [uigradients](http://uigradients.com/)
 - Inpiração para combinar tipografias [Typo.io](https://typ.io/)
+
+### Download de imagens
+- [Unsplash](https://unsplash.com/)
+- [Gratis Graphy](https://gratisography.com/)
+- [Visual Hunt](https://visualhunt.com/)
+- [Picjumbo](https://picjumbo.com/)
+- [Pexels](https://www.pexels.com/)
+- [Unsplash](https://unsplash.com/)
+- [Freepik](https://www.freepik.com/)
+- [Flaticon](https://www.flaticon.com/)
+
   
 ### Mockups
 - [Mockupworld](https://www.mockupworld.co/)
