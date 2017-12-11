@@ -25,6 +25,7 @@ Bookmarks com links
 - Lista de gradientes online 
   [Webgradients](https://webgradients.com/), [uigradients](http://uigradients.com/)
 - Inpiração para combinar tipografias [Typo.io](https://typ.io/)
+- Facilitador de CORS [cors-anywhere](https://cors-anywhere.herokuapp.com/)
 
 ### Download de imagens
 - [Unsplash](https://unsplash.com/)
