@@ -17,6 +17,7 @@ Bookmarks com links
 - Otimizador de SVG online [SVGO](https://jakearchibald.github.io/svgomg/)
 - Compiler Online pug in html [Pug in Html compiler](https://pughtml.com/)
 - Conversor de sketch para psd [Photopea](https://www.photopea.com/)
+- Conversor de px em rem [Rem calculator](https://offroadcode.com/rem-calculator/)
 
 ### Sites
 - Aurélio das regex [Regex101](https://regex101.com/)
