@@ -53,6 +53,9 @@ Bookmarks com links
 
 ### Links interessantes
 - [lawsofux](https://lawsofux.com/)
+-[30-seconds-of-css - CSS snippets](https://atomiks.github.io/30-seconds-of-css/)
 
 ### Livros
 [Javascript Info](http://javascript.info/) - Livro online de javascript
+[exploringjs 2018 - 2019](http://exploringjs.com/es2018-es2019/)
+[Eloquent JS](http://braziljs.github.io/eloquente-javascript/)
