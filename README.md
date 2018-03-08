@@ -51,9 +51,13 @@ Bookmarks com links
 ### Apresentações
 - [svg-can-do-that](http://slides.com/sdrasner/svg-can-do-that#/) by Sarah Drasner
 
-### Links interessantes
+### Estudo
 - [lawsofux](https://lawsofux.com/)
--[30-seconds-of-css - CSS snippets](https://atomiks.github.io/30-seconds-of-css/)
+- [flexboxfroggy](http://flexboxfroggy.com/)
+- [cssgridgarden](http://cssgridgarden.com/)
+
+### Snippets
+- [30-seconds-of-css - CSS snippets](https://atomiks.github.io/30-seconds-of-css/)
 
 ### Livros
 [Javascript Info](http://javascript.info/) - Livro online de javascript
