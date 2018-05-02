@@ -19,7 +19,7 @@ Bookmarks com links
 - Conversor de sketch para psd [Photopea](https://www.photopea.com/)
 - Conversor de px em rem [Rem calculator](https://offroadcode.com/rem-calculator/)
 
-### Sites
+### Links
 - Aurélio das regex [Regex101](https://regex101.com/)
 - Guia visual de propriedades css [cssreference.io](http://cssreference.io)
 - Site com diversas referencias de códigos frontend [FreeFrontend](http://freefrontend.com/)
@@ -27,6 +27,7 @@ Bookmarks com links
   [Webgradients](https://webgradients.com/), [uigradients](http://uigradients.com/)
 - Inpiração para combinar tipografias [Typo.io](https://typ.io/)
 - Facilitador de CORS [cors-anywhere](https://cors-anywhere.herokuapp.com/)
+- [Explicação sobre NVM e exemplos](https://www.sitepoint.com/quick-tip-multiple-versions-node-nvm/)
 
 ### Download de imagens
 - [Unsplash](https://unsplash.com/)
