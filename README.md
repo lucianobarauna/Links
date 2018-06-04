@@ -80,3 +80,4 @@ Bookmarks com links
 - [Video ensinando a usar Talk Back](https://www.youtube.com/watch?v=SdBLfp7JCts)
 - [ELO7 - Como fazer um dropdown acessível](https://engenharia.elo7.com.br/um-pouco-sobre-css-js-a11y/)
 - [A11Y - Guia de referência para acessibilidade - Style Guide](http://a11y-style-guide.com/style-guide/)
+- [Acessibilidade em React, um exemplo bem legal] - (https://simplyaccessible.com/article/react-a11y/)
