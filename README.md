@@ -67,6 +67,7 @@ Bookmarks com links
 [Eloquent JS](http://braziljs.github.io/eloquente-javascript/)
 
 ### Acessibilidade
+- [Prêmio Acessibilidade](http://premio.ceweb.br/index.htm)
 - [WEBAIM - Resultado pesquisa mundial sobre dispositivos e acessiblidade 2017](https://webaim.org/projects/screenreadersurvey7/#mobile)
 - [GOOGLE - Fundamentos acessibilidade google](https://developers.google.com/web/fundamentals/accessibility/semantics-aria/)
 - [Cheatsheet Aria](http://karlgroves-sandbox.com/CheatSheets/ARIA-Cheatsheet.html)
