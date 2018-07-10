@@ -29,6 +29,7 @@ Bookmarks com links
 - Facilitador de CORS [cors-anywhere](https://cors-anywhere.herokuapp.com/)
 - [Explicação sobre NVM e exemplos](https://www.sitepoint.com/quick-tip-multiple-versions-node-nvm/)
 - [Como esconder contéudos e mantendo acessibilidade](https://webaim.org/techniques/css/invisiblecontent/)
+- Arquivos de exemplo para testes [www.sample-videos.com](https://www.sample-videos.com/download-sample-audio.php)
 
 ### Download de imagens
 - [Unsplash](https://unsplash.com/)
