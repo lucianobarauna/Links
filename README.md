@@ -18,6 +18,7 @@ Bookmarks com links
 - Compiler Online pug in html [Pug in Html compiler](https://pughtml.com/)
 - Conversor de sketch para psd [Photopea](https://www.photopea.com/)
 - Conversor de px em rem [Rem calculator](https://offroadcode.com/rem-calculator/)
+- Conversor de CSS para SASS ou SCSS [css2sass](http://css2sass.herokuapp.com/)
 
 ### Links
 - Aurélio das regex [Regex101](https://regex101.com/)
