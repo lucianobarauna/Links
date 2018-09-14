@@ -19,6 +19,7 @@ Bookmarks com links
 - Conversor de sketch para psd [Photopea](https://www.photopea.com/)
 - Conversor de px em rem [Rem calculator](https://offroadcode.com/rem-calculator/)
 - Conversor de CSS para SASS ou SCSS [css2sass](http://css2sass.herokuapp.com/)
+- Api de nomes [uinames](https://uinames.com/)
 
 ### Links
 - Aurélio das regex [Regex101](https://regex101.com/)
