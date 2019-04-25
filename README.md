@@ -32,6 +32,8 @@ Bookmarks com links
 - [Explicação sobre NVM e exemplos](https://www.sitepoint.com/quick-tip-multiple-versions-node-nvm/)
 - [Como esconder contéudos e mantendo acessibilidade](https://webaim.org/techniques/css/invisiblecontent/)
 - Arquivos de exemplo para testes [www.sample-videos.com](https://www.sample-videos.com/download-sample-audio.php)
+- Como criar um virtualhost no apache linux[https://www.digitalocean.com/community/tutorials/como-configurar-apache-virtual-hosts-no-ubuntu-16-04-pt](https://www.digitalocean.com/community/tutorials/como-configurar-apache-virtual-hosts-no-ubuntu-16-04-pt)
+- Como criar links simbolicos no linux[https://www.hostinger.com.br/tutoriais/como-criar-link-simbolico-linux/](https://www.hostinger.com.br/tutoriais/como-criar-link-simbolico-linux/)
 
 ### Download de imagens
 - [Unsplash](https://unsplash.com/)
